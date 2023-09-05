@@ -1,2 +1,0 @@
-# WebFaris
-CV
